@@ -28,7 +28,7 @@ git clone https://github.com/sotieno/todo-list-ui.git
 2. Navigate to the project directory:
 
 ```
-cd todo-list-ui
+cd todo-list-app
 ```
 
 3. Install dependencies:
