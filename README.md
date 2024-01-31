@@ -50,6 +50,14 @@ npm start
 
 ## Screenshots
 
+### Desktop view
+
+![pic1](./images/pic1.png)
+
+### Mobile view
+
+![pic2](./images/pic2.png)
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues and pull requests.
